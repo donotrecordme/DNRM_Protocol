@@ -7,7 +7,7 @@ This repository houses the foundational architecture, the Decentralized Recovery
 ## 📄 The White Paper
 To understand the complete mathematical, legal, and cryptographic architecture behind the DNRM ecosystem, please read our official Version 2.0 White Paper.
 
-* [**Read the White Paper (Markdown)**](./WHITEPAPER.md)
+* [**Read the White Paper (Markdown)**](./whitepaper.md)
 * [**Download the White Paper (PDF)**](./DNRM_Whitepaper_V2.pdf)
 
 ## 🏗️ Ecosystem Repositories
