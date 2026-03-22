@@ -764,4 +764,18 @@ Its core claim is not that privacy must eliminate accountability, nor that accou
 
 DNRM shifts the balance of power away from platforms, away from silent state access, away from opaque device manufacturers, and toward an open protocol in which visual consent becomes technically enforceable and any exception to that protection becomes publicly auditable.
 
+## 19. Legal Disclaimer & Open Source Notice
+
+**No Guarantee of Absolute Privacy**
+The Do Not Record Me (DNRM) Protocol is an experimental, open-source technological framework designed to enhance visual consent. While the cryptography and edge-computed obfuscation are built to industry standards, no system can guarantee absolute privacy, security, or cryptographic permanence against all adversarial threats, undisclosed hardware backdoors, or future quantum-computing advancements. The DNRM protocol operates optimally within compliant ecosystems (Tier I and Tier II); it cannot physically prevent recording by non-compliant or malicious actors (Tier III).
+
+**Limitation of Liability**
+The authors, developers, and node operators of the DNRM Protocol assume no liability for the capture, leakage, decryption, or misuse of biometric data by third parties. Wearing DNRM physical markers does not grant the wearer legal immunity, nor does it override local, state, or international laws regarding public photography, surveillance, or law enforcement investigations.
+
+**Not Legal Advice**
+The frameworks discussed in this document regarding "lawful recovery," "warrants," and "evidentiary integrity" represent a proposed technological architecture, not legal advice. Platform hosts, Original Equipment Manufacturers (OEMs), and decentralized node operators must independently verify compliance with the legal jurisdictions in which they operate.
+
+**Open Source & Intellectual Property**
+The core algorithmic pipeline, smart contracts, and protocol architecture are intended to be open-source public goods. However, the specific DNRM name, logos, and physical marker designs utilized on official apparel and gear are the proprietary trademarks of Do Not Record Me.
+
 **No Consent. No Recording.**
