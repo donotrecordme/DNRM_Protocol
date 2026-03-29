@@ -1,4 +1,4 @@
-# The DNRM Protocol: A Decentralized Standard for Visual Privacy
+# The DNRM Lockbox Protocol: A Decentralized Standard for Visual Privacy
 
 The expansion of ubiquitous cameras, AI-enabled surveillance, and automated facial recognition has created a structural imbalance between image capture and individual consent. Existing privacy protections are largely post-capture, platform-dependent, and easily bypassed. This paper proposes the Do Not Record Me (DNRM) Protocol, a decentralized, edge-computed system for automated visual consent enforcement triggered by machine-readable physical markers. When a DNRM marker is detected, facial imagery is obfuscated in real time before storage or transmission, while the original biometric region is encrypted locally and locked behind a Decentralized Recovery and Escrow Network (DREN) governed by blockchain-based consensus, threshold cryptography, and public auditability.
 
